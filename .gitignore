@@ -1,0 +1,19 @@
+# General
+*.log
+*.pyc
+*.db
+__pycache__/
+db.sqlite3
+media/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+.vscode/
